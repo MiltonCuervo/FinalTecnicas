@@ -1,0 +1,11 @@
+com\mycompany\inventario\servlets\SvEdit.class
+persistence\exceptions\NonexistentEntityException.class
+com\mycompany\inventario\servlets\SvProductos.class
+persistence\exceptions\PreexistingEntityException.class
+model\Product.class
+persistence\ControlPersistence.class
+persistence\exceptions\IllegalOrphanException.class
+persistence\ProductJpaController.class
+model\Product_.class
+com\mycompany\inventario\servlets\SvDelete.class
+model\ControlProduct.class

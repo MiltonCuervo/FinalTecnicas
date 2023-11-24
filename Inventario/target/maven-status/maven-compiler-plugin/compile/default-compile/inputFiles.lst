@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\NetBeansProjects\Inventario\src\main\java\persistence\exceptions\IllegalOrphanException.java
+C:\Users\Usuario\Documents\NetBeansProjects\Inventario\src\main\java\persistence\exceptions\PreexistingEntityException.java
+C:\Users\Usuario\Documents\NetBeansProjects\Inventario\src\main\java\persistence\ControlPersistence.java
+C:\Users\Usuario\Documents\NetBeansProjects\Inventario\src\main\java\com\mycompany\inventario\servlets\SvProductos.java
+C:\Users\Usuario\Documents\NetBeansProjects\Inventario\src\main\java\model\ControlProduct.java
+C:\Users\Usuario\Documents\NetBeansProjects\Inventario\src\main\java\persistence\exceptions\NonexistentEntityException.java
+C:\Users\Usuario\Documents\NetBeansProjects\Inventario\src\main\java\com\mycompany\inventario\servlets\SvDelete.java
+C:\Users\Usuario\Documents\NetBeansProjects\Inventario\src\main\java\com\mycompany\inventario\servlets\SvEdit.java
+C:\Users\Usuario\Documents\NetBeansProjects\Inventario\src\main\java\model\Product.java
+C:\Users\Usuario\Documents\NetBeansProjects\Inventario\src\main\java\persistence\ProductJpaController.java
